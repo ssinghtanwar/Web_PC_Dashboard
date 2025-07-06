@@ -1,4 +1,3 @@
-```markdown
 # 🖥️ PC-Dashboard
 
 _A live, browser-based system monitor written entirely in Python._
