@@ -118,7 +118,6 @@ Multi-vendor support is on the roadmap — PRs welcome!
 
 ## License
 
-**MIT** © 2025 Your Name  
-See [`LICENSE`](LICENSE) for details.
+**MIT** © 2025 Saurabh Singh Tanwar
 ```
 
